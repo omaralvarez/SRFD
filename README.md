@@ -1,7 +1,7 @@
 <p align="center">
 	<a><img src='https://img.shields.io/badge/python-3.10%2B-blueviolet' alt='Python' /></a>
 	<a><img src='https://img.shields.io/badge/code%20style-black-black' /></a>
-	<a href='https://opensource.org/license/gpl-3'><img src='https://img.shields.io/badge/license-GPLv3+-blue' /></a>
+	<a href='https://opensource.org/license/gpl-3'><img src='https://img.shields.io/badge/license-GPLv3-blue' /></a>
 	<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 </p>
 
