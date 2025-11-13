@@ -1,2 +1,35 @@
-# SRFD
-Symbolic Regression-based Flutter Derivative Emulation Framework
+<p align="center">
+	<a><img src='https://img.shields.io/badge/python-3.10%2B-blueviolet' alt='Python' /></a>
+	<a><img src='https://img.shields.io/badge/code%20style-black-black' /></a>
+	<a href='https://opensource.org/license/gpl-3'><img src='https://img.shields.io/badge/license-GPLv3+-blue' /></a>
+	<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+</p>
+
+# 📈 SRFD
+
+[**Symbolic Regression enabled prediction of aeroelastic phenomena**]()<br/>
+[Omar A. Mures](https://omaralv.com/), [Miguel Cid Montoya](https://mcidmontoya.com/), [Juan García-Tizón]()
+
+## 📢 News
+
+### November 2025
+
+- Code coming soon.
+
+## 🎯 TODO
+
+The repo is still under construction, thanks for your patience. 
+
+- [ ] Release Colab example.
+- [ ] Release pip package.
+- [ ] Release of the emulation code.
+
+## 📜 Citation
+
+```
+@Article{mures2025signed,
+  author = {Mures, Omar A. and Cid Montoya, Miguel and Juan Garc{\'i}a-Tiz{\'o}n},
+  title = {Symbolic Regression enabled prediction of aeroelastic phenomena},
+  year = {2026}
+}
+```
