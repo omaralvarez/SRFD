@@ -27,7 +27,7 @@ The repo is still under construction, thanks for your patience.
 ## 📜 Citation
 
 ```
-@Article{mures2025signed,
+@Article{montoya2026symbolic,
   author = {Cid Montoya, Miguel and Mures, Omar A. and Juan Garc{\'i}a-Tiz{\'o}n},
   title = {Symbolic Regression enabled prediction of aeroelastic phenomena},
   year = {2026}
