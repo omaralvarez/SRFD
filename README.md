@@ -8,7 +8,7 @@
 # 📈 SRFD
 
 [**Symbolic Regression enabled prediction of aeroelastic phenomena**]()<br/>
-[Omar A. Mures](https://omaralv.com/), [Miguel Cid Montoya](https://mcidmontoya.com/), [Juan García-Tizón]()
+[Miguel Cid Montoya](https://mcidmontoya.com/), [Omar A. Mures](https://omaralv.com/), [Juan García-Tizón]()
 
 ## 📢 News
 
@@ -28,7 +28,7 @@ The repo is still under construction, thanks for your patience.
 
 ```
 @Article{mures2025signed,
-  author = {Mures, Omar A. and Cid Montoya, Miguel and Juan Garc{\'i}a-Tiz{\'o}n},
+  author = {Cid Montoya, Miguel and Mures, Omar A. and Juan Garc{\'i}a-Tiz{\'o}n},
   title = {Symbolic Regression enabled prediction of aeroelastic phenomena},
   year = {2026}
 }
