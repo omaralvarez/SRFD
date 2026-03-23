@@ -5,7 +5,7 @@
 	<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 </p>
 
-# 📈 SRFSI
+# 📈 SRFD
 
 [**Symbolic Regression enabled prediction of flutter derivatives**]()<br/>
 [Miguel Cid Montoya](https://mcidmontoya.com/), [Omar A. Mures](https://omaralv.com/), [Juan García-Tizón]()
