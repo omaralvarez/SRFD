@@ -7,7 +7,7 @@
 
 # 📈 SRFSI
 
-[**Symbolic Regression enabled prediction of aeroelastic phenomena**]()<br/>
+[**Symbolic Regression enabled prediction of flutter derivatives**]()<br/>
 [Miguel Cid Montoya](https://mcidmontoya.com/), [Omar A. Mures](https://omaralv.com/), [Juan García-Tizón]()
 
 ## 📢 News
