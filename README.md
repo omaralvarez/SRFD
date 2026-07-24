@@ -12,11 +12,9 @@
 [**Symbolic Regression enabled prediction of flutter derivatives**](https://doi.org/10.1016/j.awe.2026.100107)<br/>
 [Miguel Cid Montoya](https://mcidmontoya.com/), [Omar A. Mures](https://omaralv.com/), [Juan García-Tizón]()
 
-## 📢 News
+## 📢 Latest News
 
-### November 2025
-
-- Code coming soon.
+#### 🔥 **[2025.11]** Code Coming Soon! 👀
 
 ## 🎯 TODO
 
@@ -25,6 +23,7 @@ The repo is still under construction, thanks for your patience.
 - [ ] Release Colab example.
 - [ ] Release pip package.
 - [ ] Release of the emulation code.
+- [x] Release paper page.
 
 ## 📜 Citation
 
