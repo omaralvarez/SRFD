@@ -14,6 +14,7 @@
 
 ## 📢 Latest News
 
+#### 🔥 **[2026.07]** Project Page Released! 📄 
 #### 🔥 **[2025.11]** Code Coming Soon! 👀
 
 ## 🎯 TODO
@@ -23,7 +24,7 @@ The repo is still under construction, thanks for your patience.
 - [ ] Release Colab example.
 - [ ] Release pip package.
 - [ ] Release of the emulation code.
-- [x] Release paper page.
+- [x] Release project page.
 
 ## 📜 Citation
 
