@@ -27,9 +27,14 @@ The repo is still under construction, thanks for your patience.
 ## 📜 Citation
 
 ```
-@Article{montoya2026symbolic,
-  author = {Cid Montoya, Miguel and Mures, Omar A. and Juan Garc{\'i}a-Tiz{\'o}n},
-  title = {Symbolic Regression enabled prediction of aeroelastic phenomena},
-  year = {2026}
+@Article{montoya2026symoblic,
+  author = {Cid Montoya, Miguel and Mures, Omar A. and Garc{\'i}a-Tiz{\'o}n, Juan},
+  title = {Symbolic Regression enabled prediction of flutter derivatives},
+  journal = {Advances in Wind Engineering},
+  volume = {3},
+  number = {2},
+  pages = {100107},
+  doi = {https://doi.org/10.1016/j.awe.2026.100107},
+  url = {https://www.sciencedirect.com/science/article/pii/S2950601826000096},
 }
 ```
